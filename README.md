@@ -8,6 +8,12 @@
 
 - 視線の注視点の算出などに利用する？
 
+# サンプル：使い方
+
+```php
+php example.php
+```
+
 # 参考
 
 - http://k-ichikawa.blog.enjoy.jp/etc/HP/js/convexHull/cvx.html
