@@ -1,7 +1,4 @@
 <?php
-$circle = getCircleContainingAllPositions([[10, 10], [20, 10], [30, 30], [40, 40], [100, 100], [100, 120]]);
-var_dump($circle);
-
 // 引数：$positionsは任意の数の座標
 // 返値：全ての点を含む最小円の半径と中心点
 function getCircleContainingAllPositions($positions) {
